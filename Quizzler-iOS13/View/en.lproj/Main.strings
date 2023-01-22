@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TGj-rp-a1t"; */
+"TGj-rp-a1t.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "False"; ObjectID = "aix-F6-i7U"; */
+"aix-F6-i7U.normalTitle" = "False";
+
+/* Class = "UIButton"; normalTitle = "True"; ObjectID = "oVw-Hl-IRe"; */
+"oVw-Hl-IRe.normalTitle" = "True";
+
+/* Class = "UILabel"; text = "Question Text"; ObjectID = "rSI-li-mhO"; */
+"rSI-li-mhO.text" = "Question Text";
+
+/* Class = "UIButton"; normalTitle = "False"; ObjectID = "tbn-vQ-GyC"; */
+"tbn-vQ-GyC.normalTitle" = "False";
